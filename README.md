@@ -22,4 +22,4 @@ kilometer.
 8. Write a Java program to convert days into years, weeks and days.
 
 9. Write a Java program to find power of any number (x^y).
-10. 
+10. Write a Java program to enter any number and calculate its square root.
