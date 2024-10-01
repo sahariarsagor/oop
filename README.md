@@ -27,3 +27,11 @@ kilometer.
 12. Write a Java program to calculate area of an equilateral triangle.
 13. Write a Java program to enter marks of five subjects and calculate total, average and
 percentage.
+14. Write a Java program to enter P, T, and R and calculate Simple and Compound
+Interest.
+[Hints:
+Compound Interest:
+Formula: P * ((1 + R / 100) T - 1) (where P = Principle, T = Time, R = Rate)
+Simple Interest:
+Formula: Principle * Time * Rate / 100]
+
