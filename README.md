@@ -25,3 +25,5 @@ kilometer.
 10. Write a Java program to enter any number and calculate its square root.
 11. Write a Java program to enter two angles of a triangle and find the third angle.
 12. Write a Java program to calculate area of an equilateral triangle.
+13. Write a Java program to enter marks of five subjects and calculate total, average and
+percentage.
