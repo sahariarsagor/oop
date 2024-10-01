@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "problem01",
+            "request": "launch",
+            "mainClass": "problem01",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem02",
+            "request": "launch",
+            "mainClass": "problem02",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem03",
+            "request": "launch",
+            "mainClass": "problem03",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem04",
+            "request": "launch",
+            "mainClass": "problem04",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem05",
+            "request": "launch",
+            "mainClass": "problem05",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem06",
+            "request": "launch",
+            "mainClass": "problem06",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem07",
+            "request": "launch",
+            "mainClass": "problem07",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem08",
+            "request": "launch",
+            "mainClass": "problem08",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem09",
+            "request": "launch",
+            "mainClass": "problem09",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem10",
+            "request": "launch",
+            "mainClass": "problem10",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem11",
+            "request": "launch",
+            "mainClass": "problem11",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem12",
+            "request": "launch",
+            "mainClass": "problem12",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem13",
+            "request": "launch",
+            "mainClass": "problem13",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
+            "name": "problem14",
+            "request": "launch",
+            "mainClass": "problem14",
+            "projectName": "oop_1d2b412b"
+        }
+    ]
+}
