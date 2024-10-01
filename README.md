@@ -23,3 +23,4 @@ kilometer.
 
 9. Write a Java program to find power of any number (x^y).
 10. Write a Java program to enter any number and calculate its square root.
+11. Write a Java program to enter two angles of a triangle and find the third angle.
