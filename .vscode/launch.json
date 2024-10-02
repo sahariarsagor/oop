@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "problem07",
+            "request": "launch",
+            "mainClass": "ifElse.problem07",
+            "projectName": "oop_1d2b412b"
+        },
+        {
+            "type": "java",
             "name": "problem06",
             "request": "launch",
             "mainClass": "ifElse.problem06",
