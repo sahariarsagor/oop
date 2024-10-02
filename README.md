@@ -35,3 +35,6 @@ Formula: P * ((1 + R / 100) T - 1) (where P = Principle, T = Time, R = Rate)
 Simple Interest:
 Formula: Principle * Time * Rate / 100]
 
+## Chapter 02 (Conditional & Ternary Operator):
+1. Write a Java program to find maximum and minimum among three numbers
+using conditional/ternary operator.
