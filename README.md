@@ -38,3 +38,4 @@ Formula: Principle * Time * Rate / 100]
 ## Chapter 02 (Conditional & Ternary Operator):
 1. Write a Java program to find maximum and minimum among three numbers
 using conditional/ternary operator.
+2. Write a Java program to check whether a number is even or odd 
