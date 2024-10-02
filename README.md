@@ -41,3 +41,4 @@ using conditional/ternary operator.
 2. Write a Java program to check whether a number is even or odd 
 3. Write a Java program to check whether year is leap year or not
 using conditional/ternary operator.
+4.  Write a Java program to check whether character is an alphabet or not using conditional/ternary operator.
