@@ -43,7 +43,7 @@ using conditional/ternary operator.
 using conditional/ternary operator.
 4.  Write a Java program to check whether character is an alphabet or not using conditional/ternary operator.
 
-## If - Else: 
+## Chapter 03 (If - Else): 
 1. Write a Java program to check whether a number is negative, positive or zero.
 2. Write a Java program to check whether a number is divisible by 5 and 11 or not.
 3. Write a Java program to count total number of notes (money) in given amount.
@@ -80,3 +80,13 @@ For next 100 units BDT. 0.75/unit
 For next 100 units BDT 1.20/unit
 For unit above 250 BDT. 1.50/unit
 An additional surcharge of 20% is added to the bill. 
+
+## Chapter 04(Switch Case): 
+1. Write a Java program to check whether an alphabet is vowel or consonant using
+switch case.
+2. Write a Java program to print day of week name using switch case.
+3. Write a Java program print total number of days in a month using switch case.
+4. Write a Java program to find maximum between two numbers using switch case.
+5. Write a Java program to check whether a number is even or odd using switch case.
+6. Write a Java program to find roots of a quadratic equation using switch case.
+7. Write a Java program to create Simple Calculator using switch case.
