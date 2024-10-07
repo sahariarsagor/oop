@@ -90,3 +90,45 @@ switch case.
 5. Write a Java program to check whether a number is even or odd using switch case.
 6. Write a Java program to find roots of a quadratic equation using switch case.
 7. Write a Java program to create Simple Calculator using switch case.
+
+## Chapter 05 (Loop Programming): 
+1. rite a Java program to print all natural numbers in reverse (from n to 1). - using while loop
+2.  Write a Java program to print all alphabets from a to z. - using while loop
+3.  Write a Java program to print sum of all even numbers between 1 to n. 
+4.  Write a Java program to print sum of all odd numbers between 1 to n.
+5.  Write a Java program to print prime numbers between 1 to n.
+6. Write a Java program to print table of any number.
+7.  Write a Java program to enter any number and calculate sum of all natural numbers between 1 to n.
+8. Write a Java program to find first and last digit of any number.
+9.  Write a Java program to count number of digits in any number.
+10. Write a Java program to calculate sum of digits of any number.
+11. Write a Java program to calculate product of digits of any number.
+12. Write a Java program to swap first and last digits of any number.
+13. Write a Java program to find sum of first and last digit of any number.
+14. Write a Java program to enter any number and print its reverse.
+15. Write a Java program to enter any number and check whether the number is palindrome or not.
+16. Write a Java program to find frequency of each digit in a given integer.
+17. Write a Java program to enter any number and print it in words.
+18. Write a Java program to print all ASCII character with their values.
+19. Write a Java program to find power of any number using for loop.
+20. Write a Java program to enter any number and print all factors of the number.
+21. Write a Java program to enter any number and calculate its factorial.
+22. Write a java program to find out the sum of series 1 + 2 + …. + n.
+23. Write a java program to find out the sum of series 7+ 20 + 33 + …. + up to 100 term
+24. Write a java program to find out the sum of series 5 - 11 + 17 - …. + up to 75 term
+25. Write a java program to find out the sum of series 1 + (1+ 2) + (1+2+3) …. + (1 + 2 + 3 + ………… + n).
+26. Write a java program to find out the sum of series 12 + 22 + …. + n2.
+27. Java program to Find Sum of the Series 1/1! + 2/2! + 3/3! + ……1/N! 
+28. Write a Java program to find GCD of two numbers.
+29. Write a Java program to find LCM of two numbers.
+30. Write a Java program to check whether a number is Armstrong number or not.
+31. Write a Java program to check whether a number is Perfect number or not.
+32. Write a Java program to check whether a number is Strong number or not.
+33. Write a Java program to print all Armstrong numbers between 1 to n.
+34. Write a Java program to print all Perfect numbers between 1 to n.
+35. Write a Java program to print all Strong numbers between 1 to n.
+36. Write a Java program to enter any number and print its prime factors.
+37. Write a Java program to print Fibonacci series up to n terms.
+38. Write a Java program to find one's complement of a binary number.
+39. rite a Java program to find two's complement of a binary number.
+40.  Star pattern programs - Write a Java program to print the given star patterns.
