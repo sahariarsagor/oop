@@ -5,4 +5,13 @@ Question for Exam Preparation:
   if cgpa > 3.75 Excellent Result, Keep it up!,
   if 3.74 > cgpa > 3.00 Good Result but try for better ,
   if 2.99 > cgpa > 2.50 Bad Result,
-  if cgpa < 2.50 RED Alert. 
+  if cgpa < 2.50 RED Alert.
+
+3. you are a student at city university. You need to show your university name, your name and your roll number. For showing your roll number you need to print your immediate next roll number including his/her name your are not permitted to print the roll number from the main method manually. 
+    Sample Output: 
+        City University
+         
+        Name: Atiya Alamgir
+        Serial: 1
+        Name: Shova Tasmi
+        Serial: 2 
