@@ -1,0 +1,3 @@
+Question for Exam Preparation: 
+1. Write a java program to check your last two digit of your id is prime or not ? Pass the two digit as parameter using primeRecursion function. 
+
