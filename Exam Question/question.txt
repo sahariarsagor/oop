@@ -1,3 +1,8 @@
 Question for Exam Preparation: 
 1. Write a java program to check your last two digit of your id is prime or not ? Pass the two digit as parameter using primeRecursion function. 
 
+2. You passed your last semester with some courses. Now take your all course name as input with the respective course marks and calculate the cumulative grade. Finally, you need to show a common regarding your grade. The comments are the following manners.  
+  if cgpa > 3.75 Excellent Result, Keep it up!,
+  if 3.74 > cgpa > 3.00 Good Result but try for better ,
+  if 2.99 > cgpa > 2.50 Bad Result,
+  if cgpa < 2.50 RED Alert. 
