@@ -15,3 +15,5 @@ Question for Exam Preparation:
         Serial: 1
         Name: Shova Tasmi
         Serial: 2 
+
+4. Assume you are an owner of a car showroom. Your car has model, brand, modelYear, Price and color. You have some numbers of cars (Hints: you can use your last digit of your ID) and if sellCars function should not be called more than your car quantitiy. Finally you will show the last updated information through a single print statement. 
