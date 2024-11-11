@@ -1,11 +1,11 @@
-class Car{
+class myCar{
     private String model;
     private String brand;
     private int modelYear;
     private double price;
     private String color;
 
-    public Car(String model, String brand, int modelYear, double price, String color){
+    public myCar(String model, String brand, int modelYear, double price, String color){
         this.model = model;
         this.brand = brand;
         this.modelYear = modelYear;
@@ -20,15 +20,15 @@ class Car{
 }
 
 class carShowroom{
-   private Car[] cars;
+   private myCar[] cars;
    private int carCount;
    
    public carShowroom(int numberOfCars){
-        cars = new Car[numberOfCars];
+        cars = new myCar[numberOfCars];
         carCount = numberOfCars;
    }
 
-   public void addCar(int index, Car car){
+   public void addCar(int index, myCar car){
         if(index < carCount){
             cars[index] = car;
         }
@@ -56,11 +56,11 @@ public class problem4{
     public static void main(String[] args) {
         carShowroom showroom = new carShowroom(5);
 
-        showroom.addCar(0, new Car("model01", "toyota", 2020, 25000, "red"));
-        showroom.addCar(1, new Car("model02", "volvo", 2021, 25000, "green"));
-        showroom.addCar(2, new Car("model03", "hyundai", 2022, 25000, "yellow"));
-        showroom.addCar(3, new Car("model04", "rangerover", 2023, 25000, "blue"));
-        showroom.addCar(4, new Car("model05", "tesla", 2024, 25000, "orange"));
+        showroom.addCar(0, new myCar("model01", "toyota", 2020, 25000, "red"));
+        showroom.addCar(1, new myCar("model02", "volvo", 2021, 25000, "green"));
+        showroom.addCar(2, new myCar("model03", "hyundai", 2022, 25000, "yellow"));
+        showroom.addCar(3, new myCar("model04", "rangerover", 2023, 25000, "blue"));
+        showroom.addCar(4, new myCar("model05", "tesla", 2024, 25000, "orange"));
 
         showroom.sellCar();
         showroom.sellCar();
