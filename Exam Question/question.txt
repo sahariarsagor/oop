@@ -20,3 +20,5 @@ Question for Exam Preparation:
 
 5. write a java program to find out the factorial number by using checkFactorial recursive function Check the output by using you last digit of your id and my id last digit is 6. 
 
+6. Bank and Account are the two classes where you will meet the basic account requrements through constructor. Make sure if withdraw balance should not exceed the remaining balance. the deposited balance should add the current balance. 
+
