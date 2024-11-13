@@ -22,3 +22,4 @@ Question for Exam Preparation:
 
 6. Bank and Account are the two classes where you will meet the basic account requrements through constructor. Make sure if withdraw balance should not exceed the remaining balance. the deposited balance should add the current balance. 
 
+7. You are a loan candidate for FSIBL. you have name, annualIncome, nidNum, accNum and cresitScore. if your cresitScore is more than 700 then you are a preferred load candidate and the loan amount is calculated as (loanAmount <= 0.5*annualIncome) otherwise the request is rejected. In other scenario the creditScore is between 600 and 700 hence it will calculate (loanAmount <= 0.3*annualIncome) otherwise the request is rejected. If creditScore is not lies on that limit then the candidate is totally not eligible for load applicant. 
