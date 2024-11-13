@@ -17,3 +17,6 @@ Question for Exam Preparation:
         Serial: 2 
 
 4. Assume you are an owner of a car showroom. Your car has model, brand, modelYear, Price and color. You have some numbers of cars (Hints: you can use your last digit of your ID) and if sellCars function should not be called more than your car quantitiy. Finally you will show the last updated information through a single print statement. 
+
+5. write a java program to find out the factorial number by using checkFactorial recursive function Check the output by using you last digit of your id and my id last digit is 6. 
+
