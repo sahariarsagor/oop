@@ -8,11 +8,9 @@ public class problem13 {
 
         int lastDigit = n%10; 
         int firstDigit = n;
-        int count = 0;
 
         while(firstDigit >= 10){
             firstDigit /= 10;
-            count++;
         }
 
         int sum = firstDigit + lastDigit;
