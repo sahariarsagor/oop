@@ -173,3 +173,83 @@ switch case.
 36. Write a Java program to check Identity matrix.
 37. Write a Java program to check sparse matrix.
 38. Write a Java program to check Symmetric matrix.
+
+## String Manipulation: 
+1. Write a Java program to find length of a string.
+2. Write a Java program to copy one string to another string.
+3. Write a Java program to concatenate two strings.
+4. Write a Java program to compare two strings.
+5. Write a Java program to convert lowercase string to uppercase.
+6. Write a Java program to convert uppercase string to lowercase.
+7. Write a Java program to toggle case of each character of a string.
+8. Write a Java program to find total number of alphabets, digits or special character in a 
+string.
+9. Write a Java program to count total number of vowels and consonants in a string.
+10. Write a Java program to count total number of words in a string.
+11. Write a Java program to find reverse of a string.
+12. Write a Java program to check whether a string is palindrome or not.
+13. Write a Java program to reverse order of words in a given string.
+14. Write a Java program to find first occurrence of a character in a given string.
+15. Write a Java program to find last occurrence of a character in a given string.
+16. Write a Java program to search all occurrences of a character in given string.
+17. Write a Java program to count occurrences of a character in given string.
+18. Write a Java program to find highest frequency character in a string.
+19. Write a Java program to find lowest frequency character in a string.
+20. Write a Java program to count frequency of each character in a string.
+21. Write a Java program to remove first occurrence of a character from string.
+22. Write a Java program to remove last occurrence of a character from string.
+23. Write a Java program to remove all occurrences of a character from string.
+24. Write a Java program to remove all repeated characters from a given string.
+25. Write a Java program to replace first occurrence of a character with another in a 
+string.
+26. Write a Java program to replace last occurrence of a character with another in a string.
+27. Write a Java program to replace all occurrences of a character with another in a string.
+28. Write a Java program to find first occurrence of a word in a given string.
+29. Write a Java program to find last occurrence of a word in a given string.
+30. Write a Java program to search all occurrences of a word in given string.
+31. Write a Java program to count occurrences of a word in a given string.
+32. Write a Java program to remove first occurrence of a word from string.
+33. Write a Java program to remove last occurrence of a word in given string.
+34. Write a Java program to remove all occurrence of a word in given string.
+35. Write a Java program to trim leading white space characters in a string.
+36. Write a Java program to trim trailing white space characters in a string.
+37. Write a Java program to trim both leading and trailing white space characters in a 
+string.
+38. Write a Java program to remove all extra blank spaces from a given string.
+
+## User Define Function Programming: 
+1.  Write a Java program to find cube of any number using function.
+2.  Write a Java program to find diameter, circumference and area of circle using 
+functions.
+3.  Write a Java program to find maximum and minimum between two numbers using 
+functions.
+4.  Write a Java program to check whether a number is even or odd using functions.
+5.  Write a Java program to check whether a number is prime, Armstrong or perfect 
+number using functions.
+6.  Write a Java program to find all prime numbers between given interval using 
+functi. ns.
+7.  Write a Java program to print all strong numbers between given interval using 
+functions.
+8.  Write a Java program to print all Armstrong numbers between given interval using 
+functions.
+9.  Write a Java program to print all perfect numbers between given interval using 
+functions.
+10. Write a Java program to find power of any number using recursion.
+11. Write a Java program to print all natural numbers between 1 to n using recursion.
+12. Write a Java program to print all even or odd numbers in given range using recursion.
+13. Write a Java program to find sum of all natural numbers between 1 to n using 
+recursion.
+14. Write a Java program to find sum of all even or odd numbers in given range using 
+recursion.
+15. Write a Java program to find reverse of any number using recursion.
+16. Write a Java program to check whether a number is palindrome or not using 
+recursion.
+17. Write a Java program to find sum of digits of a given number using recursion.
+18. Write a Java program to find factorial of any number using recursion.
+19. Write a Java program to generate nth Fibonacci term using recursion.
+20. Write a Java program to find GCD of two numbers using recursion.
+21. Write a Java program to find LCM of two numbers using recursion.
+22. Write a Java program to display all array elements using recursion.
+23. Write a Java program to find sum of elements of array using recursion.
+24. Write a Java program to find maximum and minimum elements in array using 
+recursion.
