@@ -132,3 +132,44 @@ switch case.
 38. Write a Java program to find one's complement of a binary number.
 39. rite a Java program to find two's complement of a binary number.
 40.  Star pattern programs - Write a Java program to print the given star patterns.
+
+## Array and Matrix Programming: 
+1. Write a Java program to read and print elements of array. - using recursion.
+2. Write a Java program to print all negative elements in an array.
+3. Write a Java program to find sum of all array elements. - using recursion.
+4. Write a Java program to find maximum and minimum element in an array. - using 
+    recursion.
+5. Write a Java program to find second largest element in an array.
+6. Write a Java program to count total number of even and odd elements in an array.
+7. Write a Java program to count total number of negative elements in an array.
+8. Write a Java program to copy all elements from an array to another array.
+9. Write a Java program to insert an element in an array.
+10. Write a Java program to delete an element from an array at specified position.
+11. Write a Java program to print all unique elements in the array.
+12. Write a Java program to count total number of duplicate elements in an array.
+13. Write a Java program to delete all duplicate elements from an array.
+14. Write a Java program to count frequency of each element in an array.
+15. Write a Java program to merge two array to third array.
+16. Write a Java program to find reverse of an array.
+17. Write a Java program to put even and odd elements of array in two separate array.
+18. Write a Java program to search an element in an array.
+19. Write a Java program to sort array elements in ascending order.
+20. Write a Java program to sort array elements in descending order.
+21. Write a Java program to sort even and odd elements of array separately.
+22. Write a Java program to add two matrices.
+23. Write a Java program to subtract two matrices.
+24. Write a Java program to perform Scalar matrix multiplication.
+25. Write a Java program to multiply two matrices.
+26. Write a Java program to check whether two matrices are equal or not.
+27. Write a Java program to find sum of main diagonal elements of a matrix.
+28. Write a Java program to find sum of minor diagonal elements of a matrix.
+29. Write a Java program to find sum of each row and column of a matrix.
+30. Write a Java program to interchange diagonals of a matrix.
+31. Write a Java program to find upper triangular matrix.
+32. Write a Java program to find lower triangular matrix.
+33. Write a Java program to find sum of upper triangular matrix.
+34. Write a Java program to find transpose of a matrix.
+35. Write a Java program to find determinant of a matrix.
+36. Write a Java program to check Identity matrix.
+37. Write a Java program to check sparse matrix.
+38. Write a Java program to check Symmetric matrix.
