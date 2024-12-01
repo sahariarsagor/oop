@@ -12,3 +12,4 @@ public class problem2 {
         sc.close();
     }
 }
+
