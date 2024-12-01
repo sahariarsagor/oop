@@ -6,7 +6,7 @@ public class problem5 {
         System.out.print("Enter a String in Lower case: ");
         String userInput = sc.nextLine();
         String result = userInput.toUpperCase();
-        System.out.println("Your String in Uppercase is: " + result);
+        System.out.println("Your String in Uppercase is: " +result);
         sc.close();
     }
 }
